@@ -92,7 +92,7 @@ const projects = [
     ],
     TechStack: ["ReactJS", "Tailwind", "MUI", "Motion", "AOS", "Lucide"],
     Github: "https://github.com/NAEEM-UL-HASSAN/my-portfolio.git",
-    Link: "https://naeem-portfolio-dev.vercel.app/",
+    Link: "https://www.ghulammustafa.online/",
   },
 
   {
@@ -110,7 +110,7 @@ const projects = [
     ],
     TechStack: ["Flutter", "Dart", "Firebase"],
     Github: "https://github.com/GM-6120/Flutter_Projects/tree/main/Expense-Tracker-App", // replace with your actual GitHub repo link if public
-    Link: "https://github.com/GM-6120/Flutter_Projects/tree/main/Expense-Tracker-App", // add if published on Play Store or web
+    Link: "https://www.ghulammustafa.online/", // add if published on Play Store or web
   },
 
   {
@@ -137,7 +137,7 @@ const projects = [
     ],
     Github:
       "https://github.com/GM-6120/MachineLearning_Projects/tree/main/SoilCareTech-FYP",
-    Link: "https://github.com/GM-6120/MachineLearning_Projects/tree/main/SoilCareTech-FYP", // add if deployed
+    Link: "https://www.ghulammustafa.online/", // add if deployed
   },
 
   {
@@ -155,7 +155,7 @@ const projects = [
   ],
   TechStack: ["Python", "TensorFlow", "MediaPipe", "OpenCV"],
   Github: "https://github.com/GM-6120/MachineLearning_Projects/tree/main/SignLanguageDetection-ML", // replace with your actual GitHub repo link
-  Link: "https://github.com/GM-6120/MachineLearning_Projects/tree/main/SignLanguageDetection-ML" // add if deployed as web app or published demo
+  Link: "https://www.ghulammustafa.online/" // add if deployed as web app or published demo
 },
 
 ];
