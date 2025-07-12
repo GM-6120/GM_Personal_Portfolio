@@ -173,7 +173,7 @@ function Home() {
             data-aos-delay="1400"
           >
             <Button href="#Portfolio" text="Projects" icon={ExternalLink} />
-            <Button href="Resume.pdf" text="Resume" icon={ExternalLink} />
+            <Button href="GhulamMustafa-Software-Engineer.pdf" text="Resume" icon={ExternalLink} />
           </div>
           <div
             className="flex justify-center lg:justify-start gap-4"
