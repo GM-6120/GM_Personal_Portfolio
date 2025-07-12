@@ -80,7 +80,7 @@ const Button = ({ href, text, icon: Icon }) => {
   const handleClick = (e) => {
     if (text === "Resume") {
       // Open PDF in a new tab
-      window.open("Resume.pdf", "_blank");
+      window.open("GhulamMustafa-Software-Engineer.pdf", "_blank");
     } else {
       e.preventDefault();
 
